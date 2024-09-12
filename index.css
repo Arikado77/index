@@ -1,0 +1,17 @@
+.Text-Encabezado{
+    position: center;
+    width: 350px;
+}
+
+.imagen-parrafo{
+    width: max-content;
+    display: flex;
+}
+
+.imagen{
+    width: 500px;
+}
+
+.parrafo{
+    font-size: medium;
+}
